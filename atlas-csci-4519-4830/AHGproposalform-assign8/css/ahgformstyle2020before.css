@@ -22,4 +22,10 @@
 	font-size:120%;
 	font-weight:bold;
 }
-.
+
+
+textarea:focus, input:focus {
+	background-color: #fff2a8;
+	color: #000;
+  }
+  
